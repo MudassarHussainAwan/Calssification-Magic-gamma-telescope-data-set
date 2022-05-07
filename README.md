@@ -8,4 +8,4 @@ The data set used can be downloaded from the following UCI repository:
 The result of applying various classifiers is as follows:
 ![](images/results.png)   
 The performance of these classifiers on the given data set can also be shown using the following ROC-curve:
-![](images/roc_curve.png)
+<img src = "images/roc_curve.png" width = 200>
