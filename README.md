@@ -3,8 +3,7 @@ This project is a thesis completed during the course: Mathematics in machine lea
 ## Data Set
 The data set used can be downloaded from the following UCI repository:   
 [https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope](https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope)
-This data set has the follwing attributes:   
-<img src ="images/attributes" width = 200>  
+
 ## Evaluation
 The result of applying various classifiers is as follows:
 ![](images/results.png)   
